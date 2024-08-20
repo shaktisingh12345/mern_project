@@ -44,7 +44,7 @@ server.use("/wishlist",wishlistRoutes)
 
 
 server.get("/",(req,res)=>{
-    res.status(200).json({message:'running'})
+    res.status(200).json({message:'server is running'})
 })
 
 server.listen(8000,()=>{
