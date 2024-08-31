@@ -8,7 +8,7 @@
 * **Wishlist like a pro:** Add, remove, and annotate products, remembering why you loved them with personalized notes.
 * **Effortless order management:** Create and view order history for a clear picture of your shopping journey.
 * **Personalized profile:** Manage your registered email, username, and multiple addresses for a swift checkout experience.
-* **Cart control at your fingertips:** Add, adjust quantities, and view subtotals with ease.
+* **Cart control at your fingertips:** Add,.... adjust quantities, and view subtotals with ease.
 
 ### **Empowering Admins with Control:**
 
